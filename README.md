@@ -20,3 +20,8 @@ I'm a Fullstack Developer in training, focused on creating web solutions. Curren
 <img align="left" alt="Linux" title="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" title="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
+<br>
+
+# 
+
+[![JãoPedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaoPedroDev&include_all_commits=true&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
