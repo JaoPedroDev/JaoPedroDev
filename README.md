@@ -24,7 +24,8 @@ I'm a Fullstack Developer in training, focused on creating web solutions. Curren
 
 #
 ## 📽️ Projects Videos
+### Contact List Application Using SpringBoot and React.Js
+[![Contact List Application Using SpringBoot and React.Js](https://i.imgur.com/4sIqCjO.png)](https://www.youtube.com/watch?v=XgjeA-Iejoc)<br>
 
-[![Contact List Application Using SpringBoot and React.Js](https://i.imgur.com/4sIqCjO.png)](https://www.youtube.com/watch?v=XgjeA-Iejoc)
 #
 [![JãoPedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaoPedroDev&include_all_commits=true&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
